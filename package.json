@@ -2,6 +2,7 @@
     "dependencies": {
         "@react-three/xr": "workspace:~"
     },
+    "homepage": "https://lukeharris3d.github.io/AR_test/",
     "scripts": {
         "dev": "vite --host"
     }
